@@ -1,0 +1,13 @@
+{
+  "appName": {
+    "message": "CSS J Reload",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Simple CSS Reload utility",
+    "description": "The description of the application"
+  },
+  "pageActionTitle" : {
+    "message" : "Reload CSS"
+  }
+}
