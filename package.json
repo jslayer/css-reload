@@ -1,0 +1,25 @@
+{
+    "name": "css-reload",
+    "version": "1.2.2",
+    "description": "CSS J Reload - Chrome extension",
+    "main": "''",
+    "directories": {
+        "test": "tests"
+    },
+    "scripts": {
+        "test": "grover tests/unit/*.html"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jslayer/css-reload.git"
+    },
+    "author": {
+        "name": "Eugene Poltorakov",
+        "email": "jslayer@gmail.com"
+    },
+    "license": "MIT",
+    "readmeFilename": "README.md",
+    "bugs": {
+        "url": "https://github.com/jslayer/css-reload/issues"
+    }
+}
