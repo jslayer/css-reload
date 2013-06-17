@@ -4,6 +4,7 @@ var FILTER, SEARCH_REG_EXPR, IMPORT_REG_EXPR, URL_MATCH;
 FILTER = [
   'yui.yahooapis.com',
   'ajax.googleapis.com',
+  'fonts.googleapis.com',
   'ajax.aspnetcdn.com',
   'ajax.microsoft.com',
   'code.jquery.com'
