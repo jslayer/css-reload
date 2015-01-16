@@ -7,7 +7,8 @@ FILTER = [
     'fonts.googleapis.com',
     'ajax.aspnetcdn.com',
     'ajax.microsoft.com',
-    'code.jquery.com'
+    'code.jquery.com',
+    'use.typekit.net'
 ];
 
 SEARCH_REG_EXPR = /jcr=\w+/;
